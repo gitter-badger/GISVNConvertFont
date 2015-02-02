@@ -6,8 +6,10 @@ ArcGIS Toolbox convert font Vietnamese for shapefile/ Geodatabase
 Công cụ chuyển đổi mã font cho shapefile/ Geodatabase: TCVN3, VNI-Windows sang Unicode và ngược lại, chuyển sang chữ hoa, chữ thường, dạng Camel Case, không dấu.
 
 Modified by Chu Quang Thao - chuquangthao@gmail.com - in 2014
+
 Reference:
 	- Ninomax - thanhlv@oucru.org - 19/01/2010 # Mapping team - The Oxford University Clinical Research Unit, Ha Noi
+	
 	- Quách Đồng Thắng (vnosgis.blogspot.com), Trung tâm Ứng dụng GIS Tp.HCM (hcmgisportal.vn). 
 
 Hướng dẫn sử dụng:
